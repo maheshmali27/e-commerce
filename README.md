@@ -1,5 +1,7 @@
-# Get Started with Create React App
+# Get Started with React App
 
-Run npm install
+# Run npm install
 
-Run npm start
+# After downloading of all packages
+
+# Run npm start
